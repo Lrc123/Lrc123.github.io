@@ -1,6 +1,6 @@
 locale: "en-US"
 title: Lrc's Blog # Title of your site
-url: "https://lrc123.github.io/blog/" # the base hostname & protocol for your site
+url: "https://lrc123.github.io" # the base hostname & protocol for your site
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
