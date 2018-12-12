@@ -4,5 +4,5 @@ title:  听音识曲
 categories: python 
 date: 2018-12-09T14:37:44.000Z
 ---
-<img src="/images/fulls/05.jpg" class="fit image"> 
+<img src="/images/fulls/01.jpg" class="fit image"> 
 挂一下，有空补上

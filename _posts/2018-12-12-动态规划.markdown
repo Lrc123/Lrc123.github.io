@@ -1,0 +1,8 @@
+---
+layout: post
+title:  dynamic programming 
+categories: python 
+date: 2018-12-12T23:16:44.000Z
+---
+<img src="/images/fulls/02.jpg" class="fit image"> 
+挂一下，有空补上
