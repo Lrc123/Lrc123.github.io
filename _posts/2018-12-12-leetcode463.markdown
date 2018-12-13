@@ -1,8 +1,8 @@
 ---
 layout: post
 title: leetcode-463 
-categories: cpp 
-date: 2018-12-13T14:57:54.000Z
+categories: programming/cpp 
+date: 2018-12-12T08:57:54.000Z
 ---
 <img src="/images/fulls/03.jpg" class="fit image"> 
 挂一下，有空补上
