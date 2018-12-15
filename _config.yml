@@ -1,12 +1,14 @@
-locale: "en-US"
+locale: "zh-cn"
 title: Lrc's Blog # Title of your site
 url: "https://lrc123.github.io/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: > # this means to ignore newlines until "baseurl:"
-  Here to share some ideas about programming.
+# description: > # this means to ignore newlines until "baseurl:"
+#   Here to share some ideas about programming.
+
+future: true
 
 # Author details for the jekyll-seo-tag gem
 author: 
@@ -22,6 +24,16 @@ social:
     https://lrc123.github.io
 
 permalink: pretty
+
+markdown: redcarpet
+# redcarpet:
+      #  extensions: [with_toc_data]
+
+markdown_ext:  markdown,mkd,mkdn,md
+
+textile_ext:   textile
+
+excerpt_separator: "\n\n"
 
 gems:
   - "jekyll-feed"

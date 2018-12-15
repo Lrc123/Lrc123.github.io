@@ -1,6 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-13T15:25:02+08:00</updated><id>http://localhost:4000/</id><title>Lrc’s Blog</title><subtitle>Here to share some ideas about programming.
-</subtitle><author><name>Lrc123</name><email>892834414@qq.com</email></author><entry><title>dynamic-programming</title><link href="http://localhost:4000/programming/dynamic-programming/2018/12/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/" rel="alternate" type="text/html" title="dynamic-programming" /><published>2018-12-13T07:16:44+08:00</published><updated>2018-12-13T07:16:44+08:00</updated><id>http://localhost:4000/programming/dynamic-programming/2018/12/12/动态规划</id><content type="html" xml:base="http://localhost:4000/programming/dynamic-programming/2018/12/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/">&lt;p&gt;&lt;img src=&quot;/images/fulls/02.jpg&quot; class=&quot;fit image&quot; /&gt; 
-挂一下，有空补上&lt;/p&gt;</content><author><name>Lrc123</name><email>892834414@qq.com</email></author><summary>挂一下，有空补上</summary></entry><entry><title>爬虫</title><link href="http://localhost:4000/programming/python/2018/12/12/%E7%AE%80%E5%8D%95%E7%88%AC%E8%99%AB/" rel="alternate" type="text/html" title="爬虫" /><published>2018-12-12T22:57:54+08:00</published><updated>2018-12-12T22:57:54+08:00</updated><id>http://localhost:4000/programming/python/2018/12/12/简单爬虫</id><content type="html" xml:base="http://localhost:4000/programming/python/2018/12/12/%E7%AE%80%E5%8D%95%E7%88%AC%E8%99%AB/">&lt;p&gt;&lt;img src=&quot;/images/fulls/04.jpg&quot; class=&quot;fit image&quot; /&gt; 
-挂一下，有空补上&lt;/p&gt;</content><author><name>Lrc123</name><email>892834414@qq.com</email></author><summary>挂一下，有空补上</summary></entry><entry><title>leetcode-463</title><link href="http://localhost:4000/programming/cpp/2018/12/12/leetcode463/" rel="alternate" type="text/html" title="leetcode-463" /><published>2018-12-12T16:57:54+08:00</published><updated>2018-12-12T16:57:54+08:00</updated><id>http://localhost:4000/programming/cpp/2018/12/12/leetcode463</id><content type="html" xml:base="http://localhost:4000/programming/cpp/2018/12/12/leetcode463/">&lt;p&gt;&lt;img src=&quot;/images/fulls/03.jpg&quot; class=&quot;fit image&quot; /&gt; 
-挂一下，有空补上&lt;/p&gt;</content><author><name>Lrc123</name><email>892834414@qq.com</email></author><summary>挂一下，有空补上</summary></entry><entry><title>听音识曲</title><link href="http://localhost:4000/programming/machine-learning/2018/12/09/%E5%90%AC%E9%9F%B3%E8%AF%86%E6%9B%B2/" rel="alternate" type="text/html" title="听音识曲" /><published>2018-12-09T22:37:44+08:00</published><updated>2018-12-09T22:37:44+08:00</updated><id>http://localhost:4000/programming/machine-learning/2018/12/09/听音识曲</id><content type="html" xml:base="http://localhost:4000/programming/machine-learning/2018/12/09/%E5%90%AC%E9%9F%B3%E8%AF%86%E6%9B%B2/">&lt;p&gt;&lt;img src=&quot;/images/fulls/01.jpg&quot; class=&quot;fit image&quot; /&gt; 
-挂一下，有空补上&lt;/p&gt;</content><author><name>Lrc123</name><email>892834414@qq.com</email></author><summary>挂一下，有空补上</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-15T22:09:03+08:00</updated><id>http://localhost:4000/</id><title>Lrc’s Blog</title><subtitle>Here to share some ideas about programming.
+</subtitle><author><name>Lrc123</name><email>892834414@qq.com</email></author><entry><title>机器学习入门概论要点</title><link href="http://localhost:4000/programming/machinelearning/2018/12/15/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA%E8%A6%81%E7%82%B9/" rel="alternate" type="text/html" title="机器学习入门概论要点" /><published>2018-12-15T00:00:00+08:00</published><updated>2018-12-15T00:00:00+08:00</updated><id>http://localhost:4000/programming/machinelearning/2018/12/15/机器学习入门概论要点</id><content type="html" xml:base="http://localhost:4000/programming/machinelearning/2018/12/15/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA%E8%A6%81%E7%82%B9/">&lt;p&gt;&lt;img src=&quot;/images/subjects/machinelearning/amadeus.jpeg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+Amadeus，下次再会，在时间交叉的定下约定的那一天，我一定会在应当要到达的地方再次与你相见.
+&lt;p align=&quot;right&quot;&gt;&lt;br /&gt;by: 冈部·伦太郎 &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#machine-learning-概论&quot; id=&quot;markdown-toc-machine-learning-概论&quot;&gt;Machine Learning 概论&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#一需要掌握的10种算法&quot; id=&quot;markdown-toc-一需要掌握的10种算法&quot;&gt;一、需要掌握的10种算法&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#二需要掌握的入门知识点&quot; id=&quot;markdown-toc-二需要掌握的入门知识点&quot;&gt;二、需要掌握的入门知识点&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;machine-learning-概论&quot;&gt;Machine Learning 概论&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;一需要掌握的10种算法&quot;&gt;一、需要掌握的10种算法&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. 线性回归：找到一条直线来预测目标值
+2. 逻辑回归：找到一条直线来分类数据
+3. K-近邻：用距离度量最相邻的分类标签
+4. 朴素贝叶斯：选择后验概率最大的类为分类标签
+5. 决策树：构造一棵熵值下降最快的分类树
+6. 支持向量机（SVM）：构造超平面，分类非线性数据
+7. K-means：计算质心，聚类无标签数据
+8. 关联分析：挖掘啤酒与尿布（频繁项集）的关联规则
+9. PCA降维：减少数据维度，降低数据复杂度
+10. 人工神经网络：逐层抽象，逼近任意函数
+11. 深度学习
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;二需要掌握的入门知识点&quot;&gt;二、需要掌握的入门知识点&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;基本工具：
+    python: numpy、pandas、matplotlib.pyplot、seaborn.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;转自：&lt;a href=&quot;https://tianchi.aliyun.com/notebook/detail.html?spm=5176.11510288.0.0.c4b2b7bdL0nvgm&amp;amp;id=6239&quot; title=&quot;天池notebook&quot;&gt;天池大数据入门&lt;/a&gt;&lt;/p&gt;</content><author><name>Lrc123</name><email>892834414@qq.com</email></author><category term="知识概论" /><summary>Amadeus，下次再会，在时间交叉的定下约定的那一天，我一定会在应当要到达的地方再次与你相见.
+by: 冈部·伦太郎</summary></entry><entry><title>blog 实用小技巧</title><link href="http://localhost:4000/programming/little-tricks/2018/12/15/blog%E5%AE%9E%E7%94%A8%E5%B0%8F%E6%8A%80%E5%B7%A7/" rel="alternate" type="text/html" title="blog 实用小技巧" /><published>2018-12-15T00:00:00+08:00</published><updated>2018-12-15T00:00:00+08:00</updated><id>http://localhost:4000/programming/little-tricks/2018/12/15/blog实用小技巧</id><content type="html" xml:base="http://localhost:4000/programming/little-tricks/2018/12/15/blog%E5%AE%9E%E7%94%A8%E5%B0%8F%E6%8A%80%E5%B7%A7/">&lt;p&gt;&lt;img src=&quot;/images/subjects/machinelearning/amadeus.jpeg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#algorithm&quot; id=&quot;markdown-toc-algorithm&quot;&gt;Algorithm&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#1-线性回归&quot; id=&quot;markdown-toc-1-线性回归&quot;&gt;1. 线性回归&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#2-逻辑回归&quot; id=&quot;markdown-toc-2-逻辑回归&quot;&gt;2. 逻辑回归&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#3-k-近邻&quot; id=&quot;markdown-toc-3-k-近邻&quot;&gt;3. k-近邻&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;algorithm&quot;&gt;Algorithm&lt;/h2&gt;
+&lt;h3 id=&quot;1-线性回归&quot;&gt;1. 线性回归&lt;/h3&gt;
+
+&lt;h3 id=&quot;2-逻辑回归&quot;&gt;2. 逻辑回归&lt;/h3&gt;
+
+&lt;h3 id=&quot;3-k-近邻&quot;&gt;3. k-近邻&lt;/h3&gt;
+
+&lt;p&gt;转自：&lt;a href=&quot;https://tianchi.aliyun.com/notebook/detail.html?spm=5176.11510288.0.0.c4b2b7bdL0nvgm&amp;amp;id=6239&quot; title=&quot;天池notebook&quot;&gt;天池大数据入门&lt;/a&gt;&lt;/p&gt;</content><author><name>Lrc123</name><email>892834414@qq.com</email></author><category term="tricks" /><summary></summary></entry></feed>
