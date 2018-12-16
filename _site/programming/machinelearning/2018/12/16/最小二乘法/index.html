@@ -5,9 +5,8 @@
 		<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="author" content="Lrc123">
-		<meta name="description" content="Here to share some ideas about programming.
-">
-		<meta http-equiv="content-language" content="en-US" />
+		<meta name="description" content="">
+		<meta http-equiv="content-language" content="zh-cn" />
 		<meta name="generator" content="Jekyll v3.3.1">
 
 		<!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
@@ -20,22 +19,22 @@
     <link rel="icon" type="image/png" href="/touch-icon.png">
 
     <!-- Begin Jekyll SEO tag v2.1.0 -->
-<title>blog 实用小技巧 - Lrc’s Blog</title>
-<meta property="og:title" content="blog 实用小技巧" />
-<meta name="description" content="" />
-<meta property="og:description" content="" />
-<link rel="canonical" href="http://localhost:4000/programming/little-tricks/2018/12/15/blog%E5%AE%9E%E7%94%A8%E5%B0%8F%E6%8A%80%E5%B7%A7/" />
-<meta property="og:url" content="http://localhost:4000/programming/little-tricks/2018/12/15/blog%E5%AE%9E%E7%94%A8%E5%B0%8F%E6%8A%80%E5%B7%A7/" />
+<title>最小二乘法 - Lrc’s Blog</title>
+<meta property="og:title" content="最小二乘法" />
+<meta name="description" content="最小二乘法名字的缘由有两个，一是我们要将误差最小化，二是我们将误差最小化的方法是使误差的平方和最小化。误差最小化的原因前已述及，用误差平方和最小化来约束误差的原因是要规避负数对计算的影响。" />
+<meta property="og:description" content="最小二乘法名字的缘由有两个，一是我们要将误差最小化，二是我们将误差最小化的方法是使误差的平方和最小化。误差最小化的原因前已述及，用误差平方和最小化来约束误差的原因是要规避负数对计算的影响。" />
+<link rel="canonical" href="http://localhost:4000/programming/machinelearning/2018/12/16/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95/" />
+<meta property="og:url" content="http://localhost:4000/programming/machinelearning/2018/12/16/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95/" />
 <meta property="og:site_name" content="Lrc’s Blog" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2018-12-15T00:00:00+08:00" />
+<meta property="article:published_time" content="2018-12-16T00:00:00+08:00" />
 <script type="application/ld+json">
 {"@context": "http://schema.org",
 "@type": "BlogPosting",
-"headline": "blog 实用小技巧",
-"datePublished": "2018-12-15T00:00:00+08:00",
-"description": "",
-"url": "http://localhost:4000/programming/little-tricks/2018/12/15/blog%E5%AE%9E%E7%94%A8%E5%B0%8F%E6%8A%80%E5%B7%A7/"}</script>
+"headline": "最小二乘法",
+"datePublished": "2018-12-16T00:00:00+08:00",
+"description": "最小二乘法名字的缘由有两个，一是我们要将误差最小化，二是我们将误差最小化的方法是使误差的平方和最小化。误差最小化的原因前已述及，用误差平方和最小化来约束误差的原因是要规避负数对计算的影响。",
+"url": "http://localhost:4000/programming/machinelearning/2018/12/16/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Lrc's Blog" />
@@ -62,57 +61,38 @@
     <div id="main">
   <article>
     <header>
-      <h1 class="post-title">blog 实用小技巧</h1>
-      <p class="post-meta">Dec 15, 2018</p>
+      <h1 class="post-title">最小二乘法</h1>
+      <p class="post-meta">Dec 16, 2018</p>
     </header>
 
     <section>
-      <p><img src="/images/subjects/machinelearning/amadeus.jpeg" class="fit image" /></p>
+      <blockquote>
 
-<ul id="markdown-toc">
-  <li><a href="#algorithm" id="markdown-toc-algorithm">Algorithm</a>    <ul>
-      <li><a href="#1-线性回归" id="markdown-toc-1-线性回归">1. 线性回归</a></li>
-      <li><a href="#2-逻辑回归" id="markdown-toc-2-逻辑回归">2. 逻辑回归</a></li>
-      <li><a href="#3-k-近邻" id="markdown-toc-3-k-近邻">3. k-近邻</a></li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="algorithm">Algorithm</h2>
-<h3 id="1-线性回归">1. 线性回归</h3>
-
-<h3 id="2-逻辑回归">2. 逻辑回归</h3>
-
-<h3 id="3-k-近邻">3. k-近邻</h3>
-
-<p>转自：<a href="https://tianchi.aliyun.com/notebook/detail.html?spm=5176.11510288.0.0.c4b2b7bdL0nvgm&amp;id=6239" title="天池notebook">天池大数据入门</a></p>
+  <p>最小二乘法名字的缘由有两个，一是我们要将误差最小化，二是我们将误差最小化的方法是使误差的平方和最小化。误差最小化的原因前已述及，用误差平方和最小化来约束误差的原因是要规避负数对计算的影响。</p>
+</blockquote>
 
     </section>
 
     <footer>
       <div class="row">
       
-
-      
-        <article class="6u 12u(small) excerpt f-right">
+        <article class="6u 12u(small) excerpt">
           <header>
-            <h2><a href="/programming/machinelearning/2018/12/15/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA%E8%A6%81%E7%82%B9/">机器学习入门概论要点</a></h2>
+            <h2><a href="/%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/2018/12/16/%E9%98%B6%E6%AE%B5%E6%80%A7%E6%80%BB%E7%BB%93/">2018-12-16 阶段性总结</a></h2>
           </header>
           <section>
-            <p><img src="/images/subjects/machinelearning/amadeus.jpeg" class="fit image" /></p>
-<blockquote>
-Amadeus，下次再会，在时间交叉的定下约定的那一天，我一定会在应当要到达的地方再次与你相见.
-<p align="right"><br />by: 冈部·伦太郎 </p>
-</blockquote>
+            <p><img src="/images/subjects/personal/alipathofml.png" class="fit image" /></p>
 
 
           </section>
           <footer>
             <ul class="actions">
-              <li><a href="/programming/machinelearning/2018/12/15/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA%E8%A6%81%E7%82%B9/" class="button">Read More</a></li>
+              <li><a href="/%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/2018/12/16/%E9%98%B6%E6%AE%B5%E6%80%A7%E6%80%BB%E7%BB%93/" class="button">Read More</a></li>
             </ul>
           </footer>
         </article>
+      
+
       
       </div>
     </footer>

@@ -25,9 +25,7 @@ social:
 
 permalink: pretty
 
-markdown: redcarpet
-# redcarpet:
-      #  extensions: [with_toc_data]
+markdown: kramdown 
 
 markdown_ext:  markdown,mkd,mkdn,md
 

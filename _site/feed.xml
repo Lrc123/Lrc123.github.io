@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-15T22:09:03+08:00</updated><id>http://localhost:4000/</id><title>Lrc’s Blog</title><subtitle>Here to share some ideas about programming.
-</subtitle><author><name>Lrc123</name><email>892834414@qq.com</email></author><entry><title>机器学习入门概论要点</title><link href="http://localhost:4000/programming/machinelearning/2018/12/15/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA%E8%A6%81%E7%82%B9/" rel="alternate" type="text/html" title="机器学习入门概论要点" /><published>2018-12-15T00:00:00+08:00</published><updated>2018-12-15T00:00:00+08:00</updated><id>http://localhost:4000/programming/machinelearning/2018/12/15/机器学习入门概论要点</id><content type="html" xml:base="http://localhost:4000/programming/machinelearning/2018/12/15/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA%E8%A6%81%E7%82%B9/">&lt;p&gt;&lt;img src=&quot;/images/subjects/machinelearning/amadeus.jpeg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-16T17:53:46+08:00</updated><id>http://localhost:4000/</id><title>Lrc’s Blog</title><author><name>Lrc123</name><email>892834414@qq.com</email></author><entry><title>最小二乘法</title><link href="http://localhost:4000/programming/machinelearning/2018/12/16/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95/" rel="alternate" type="text/html" title="最小二乘法" /><published>2018-12-16T00:00:00+08:00</published><updated>2018-12-16T00:00:00+08:00</updated><id>http://localhost:4000/programming/machinelearning/2018/12/16/最小二乘法</id><content type="html" xml:base="http://localhost:4000/programming/machinelearning/2018/12/16/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95/">&lt;blockquote&gt;
+
+  &lt;p&gt;最小二乘法名字的缘由有两个，一是我们要将误差最小化，二是我们将误差最小化的方法是使误差的平方和最小化。误差最小化的原因前已述及，用误差平方和最小化来约束误差的原因是要规避负数对计算的影响。&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Lrc123</name><email>892834414@qq.com</email></author><category term="python tricks" /><summary>最小二乘法名字的缘由有两个，一是我们要将误差最小化，二是我们将误差最小化的方法是使误差的平方和最小化。误差最小化的原因前已述及，用误差平方和最小化来约束误差的原因是要规避负数对计算的影响。</summary></entry><entry><title>机器学习入门概论要点</title><link href="http://localhost:4000/programming/machinelearning/2018/12/15/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA%E8%A6%81%E7%82%B9/" rel="alternate" type="text/html" title="机器学习入门概论要点" /><published>2018-12-15T00:00:00+08:00</published><updated>2018-12-15T00:00:00+08:00</updated><id>http://localhost:4000/programming/machinelearning/2018/12/15/机器学习入门概论要点</id><content type="html" xml:base="http://localhost:4000/programming/machinelearning/2018/12/15/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA%E8%A6%81%E7%82%B9/">&lt;p&gt;&lt;img src=&quot;/images/subjects/machinelearning/amadeus.jpeg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 Amadeus，下次再会，在时间交叉的定下约定的那一天，我一定会在应当要到达的地方再次与你相见.
 &lt;p align=&quot;right&quot;&gt;&lt;br /&gt;by: 冈部·伦太郎 &lt;/p&gt;
@@ -36,22 +38,4 @@ Amadeus，下次再会，在时间交叉的定下约定的那一天，我一定�
 &lt;/div&gt;
 
 &lt;p&gt;转自：&lt;a href=&quot;https://tianchi.aliyun.com/notebook/detail.html?spm=5176.11510288.0.0.c4b2b7bdL0nvgm&amp;amp;id=6239&quot; title=&quot;天池notebook&quot;&gt;天池大数据入门&lt;/a&gt;&lt;/p&gt;</content><author><name>Lrc123</name><email>892834414@qq.com</email></author><category term="知识概论" /><summary>Amadeus，下次再会，在时间交叉的定下约定的那一天，我一定会在应当要到达的地方再次与你相见.
-by: 冈部·伦太郎</summary></entry><entry><title>blog 实用小技巧</title><link href="http://localhost:4000/programming/little-tricks/2018/12/15/blog%E5%AE%9E%E7%94%A8%E5%B0%8F%E6%8A%80%E5%B7%A7/" rel="alternate" type="text/html" title="blog 实用小技巧" /><published>2018-12-15T00:00:00+08:00</published><updated>2018-12-15T00:00:00+08:00</updated><id>http://localhost:4000/programming/little-tricks/2018/12/15/blog实用小技巧</id><content type="html" xml:base="http://localhost:4000/programming/little-tricks/2018/12/15/blog%E5%AE%9E%E7%94%A8%E5%B0%8F%E6%8A%80%E5%B7%A7/">&lt;p&gt;&lt;img src=&quot;/images/subjects/machinelearning/amadeus.jpeg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#algorithm&quot; id=&quot;markdown-toc-algorithm&quot;&gt;Algorithm&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#1-线性回归&quot; id=&quot;markdown-toc-1-线性回归&quot;&gt;1. 线性回归&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#2-逻辑回归&quot; id=&quot;markdown-toc-2-逻辑回归&quot;&gt;2. 逻辑回归&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#3-k-近邻&quot; id=&quot;markdown-toc-3-k-近邻&quot;&gt;3. k-近邻&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;algorithm&quot;&gt;Algorithm&lt;/h2&gt;
-&lt;h3 id=&quot;1-线性回归&quot;&gt;1. 线性回归&lt;/h3&gt;
-
-&lt;h3 id=&quot;2-逻辑回归&quot;&gt;2. 逻辑回归&lt;/h3&gt;
-
-&lt;h3 id=&quot;3-k-近邻&quot;&gt;3. k-近邻&lt;/h3&gt;
-
-&lt;p&gt;转自：&lt;a href=&quot;https://tianchi.aliyun.com/notebook/detail.html?spm=5176.11510288.0.0.c4b2b7bdL0nvgm&amp;amp;id=6239&quot; title=&quot;天池notebook&quot;&gt;天池大数据入门&lt;/a&gt;&lt;/p&gt;</content><author><name>Lrc123</name><email>892834414@qq.com</email></author><category term="tricks" /><summary></summary></entry></feed>
+by: 冈部·伦太郎</summary></entry></feed>
